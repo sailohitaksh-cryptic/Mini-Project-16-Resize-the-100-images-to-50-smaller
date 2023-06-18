@@ -1,0 +1,1 @@
+# Mini-Project-16-Resize-the-100-images-to-50-smaller
